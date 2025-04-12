@@ -17,4 +17,5 @@ class Asteroid(CircleShape):
         self.position += self.velocity * dt
         #self.position.x %= SCREEN_WIDTH
         #self.position.y %= SCREEN_HEIGHT
+
         
